@@ -1,2 +1,2 @@
 # gerador-fichas-js
-ficha pr afriends
+ficha pros friends
